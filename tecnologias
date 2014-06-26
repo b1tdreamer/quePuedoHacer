@@ -1,6 +1,11 @@
-Motor de búsqueda
+Motores de búsqueda
   1. DuckDuckGo -> https://api.duckduckgo.com/api
 
-Frameworks JS
+Frameworks CSS
+  1. Bootstrap -> http://getbootstrap.com/
+  2. Foundation -> http://foundation.zurb.com/
 
 Frameworks PHP
+  1. Simphony -> http://symfony.com/
+  2. CodeIgniter -> http://ellislab.com/codeigniter
+  3. Phalcon -> http://phalconphp.com/en/
